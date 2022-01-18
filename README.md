@@ -7,6 +7,6 @@ At its most fundamental level, the anatomy of the brain is divided into three se
 In this project as part of MAIA coursework in Medical Image Segmentation IBSR18 dataset was used. The dataset was set up so that 10 images were used for training, 5 images for validation, and 3 images were used for testing. The images used for training and validation included their respective ground truth data for labels, but no ground truth data for test data was provided. The voxel spacing varied between cases. Size of the volume equaled between cases and is 256 x 128 x 256.
 
 <p float="center">
-  <img src="https://github.com/inspj/IBSR18-Segmetation/blob/main/Images/Base_Images.png?raw=true" width="100" />
-  <img src="https://github.com/inspj/IBSR18-Segmetation/blob/main/Images/Base_Labels.png?raw=true" width="100" /> 
+  <img src="https://github.com/inspj/IBSR18-Segmetation/blob/main/Images/Base_Images.png?raw=true" width="300" />
+  <img src="https://github.com/inspj/IBSR18-Segmetation/blob/main/Images/Base_Labels.png?raw=true" width="300" /> 
 </p>
